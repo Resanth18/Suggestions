@@ -23,13 +23,13 @@
 
 ---
 ## New Feautre 
-# Error Handling & Troubleshooting Guide
+**Error Handling & Troubleshooting Guide**
 
 This document explains **common issues** you might face while running the hybrid AI system, along with **possible fixes**.
 
 ---
 (example from chatgpt)
-## 1️⃣ Installation Errors
+### Installation Errors
 ### Problem
 - `ModuleNotFoundError: No module named 'torch_geometric'`  
 - `ImportError: cannot import name 'XYZ'`
